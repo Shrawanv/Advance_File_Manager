@@ -2,7 +2,7 @@ import java.io.*;
 import java.nio.file.Files; 
 import java.nio.file.*; 
 
-public class moveFileToFolder 
+public class Advance_File_Manager 
 {
   public static File folder = new File("C:/Users/Raj/Desktop/Codes/Images");
   static String temp = "";
