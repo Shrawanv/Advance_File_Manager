@@ -1,7 +1,7 @@
 # Advance_File_Manager
 
 Advance_File_Manager will let you manage your file at one place....
-If any folder contains multiple types of files (ie. "pdf", ".png", "zip", etc) can be automatically soreted to their reespective file extension.
+If any folder contains multiple types of files (ie. "pdf", ".png", "zip", etc) can be automatically sorted to their reespective file extension.
 example:: if A Folder contains
 First_File.pdf
 Second_File.zip
